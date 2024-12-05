@@ -2,6 +2,9 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import ClientsPage from "./pages/ClientsPage";
 import "./App.css";
 
+// ### GPT references
+// Steps to Use Another RPC Provider
+
 function App() {
   return (
 
